@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexCCole
-- 👀 I’m interested in moving from backend to full stack dev
+- 👀 I’m interested in expanding my skillset from MS SQL Server backend work to full stack dev
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Azure Cloud Admin (AZ-104 cert in-progress)
 - ⚡ Fun fact: Left-handed
 
